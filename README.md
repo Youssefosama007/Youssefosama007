@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">Data Analyst | Data Scientist</p>
-
-###
-
-<p align="left">🎓 Background in [Computer Science / Statistics / Engineering]  <br>- 📊 Passionate about extracting insights from data and building ML models  <br>- 🛠️ Experienced in developing data pipelines, dashboards, and predictive models  <br>- 🌱 Currently learning **Deep Learning** & **Cloud Computing (AWS, GCP, Azure)**</p>
-
-###
-
-<p align="left">📈 Experience  <br>Intern<br>Ministry of Communication and Information (Depi)<br>•Conducted thorough exploratory data analysis to identify pattems and trends,<br>informing project direction.<br>•Urilized various statistical methods to analyze large datasets, generating valuable<br>insights for stakeholders.<br>•Applied time series forecasting models to predict future sales trends, aiding in<br>strategic resource allocation decisioris.<br>•Created data visualization graphics, translating complex data sets into<br>comprehensive visual representations.<br>•Developed a predictive model for customer churn,resulting in improved retention<br>strategies.<br>•Evaluated model performance using appropriate metrics such as precision,recall,<br>Fl-score, and ROC AUC curve analysis.<br>•Identified, analyzed and interpreted trends in complex data sets using supervised<br>and unsupervised learning techniques.<br>•Analyzed large datasets to identify trends and patterns in customer behaviors,</p>
+<p align="center">Data Analyst | Data Scientist<br>🎓 Background in [Computer Science / Statistics / AI]  <br>- 📊 Passionate about extracting insights from data and building ML models  <br>- 🛠️ Experienced in developing data pipelines, dashboards, and predictive models  <br>- 🌱 Currently learning **Deep Learning** & **Cloud Computing (AWS, GCP, Azure)**</p>
 
 ###
 
@@ -69,7 +61,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR4ejN1MXVzYjlwbmhkOHhlbzh6OHJ4ZWxsOWJyNHlxazhzdWkyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnxpQ3ghPiB2Hp6/giphy.gif"  />
 
 ###
 
